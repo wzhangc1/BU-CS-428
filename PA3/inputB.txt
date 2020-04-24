@@ -1,0 +1,12 @@
+t u 2
+t v 4
+t y 7
+u v 3
+u w 3
+v w 4
+v x 3
+v y 8
+w x 6
+x y 6
+x z 8
+y z 12

@@ -1,0 +1,10 @@
+u v 1
+u w 2
+u x 3
+v w 4
+v x 5
+w x 6
+w y 7
+w z 8
+x y 9
+y z 10

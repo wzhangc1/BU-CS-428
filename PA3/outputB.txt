@@ -1,0 +1,9 @@
+          Nprime  D(t),p(t)  D(u),p(u)  D(v),p(v)  D(w),p(w)  D(x),p(x)  D(y),p(y)  D(z),p(z)
+          ------   --------   --------   --------   --------   --------   --------   --------
+               u        2,u          -        3,u        3,u      infty      infty      infty
+             t u          -          -        3,u        3,u      infty        9,t      infty
+           t u v          -          -          -        3,u        6,v        9,t      infty
+         t u v w          -          -          -          -        6,v        9,t      infty
+       t u v w x          -          -          -          -          -        9,t       14,x
+     t u v w x y          -          -          -          -          -          -       14,x
+   t u v w x y z          -          -          -          -          -          -          -
